@@ -1,4 +1,4 @@
-### HI there. My name is IM SIWOO. I'm from South Korea.
+# HI there. My name is IM SIWOO. I'm from South Korea.
 
 <!--
 **xeokok7/xeokok7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
