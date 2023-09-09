@@ -1,5 +1,5 @@
 # HI there. My name is IM SIWOO. I'm from South Korea.
-## I'm really looking forward to learning about open source.
+### I'm really looking forward to learning about open source.
 
 <!--
 **xeokok7/xeokok7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
