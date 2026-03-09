@@ -1,4 +1,4 @@
-# HI there. My name is IM SIWOO. I'm from South Korea.
+
 ### I'm really looking forward to learning about open source.
 
 <!--
